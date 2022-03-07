@@ -2,18 +2,18 @@
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
- */ 
+ */
 package model;
 
 /**
  *
- * @author TrungLT
+ * @author Tai Cao
  */
 public class Account {
     private String username;
     private String passwword;
     private boolean type;
-    private int cusID;
+    private  int cusID;
 
     public Account() {
     }
