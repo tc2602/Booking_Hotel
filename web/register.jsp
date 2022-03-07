@@ -7,7 +7,7 @@
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <!DOCTYPE html>
 <html>
-    <head>
+    <head> 
         <title>Sign up</title>
         <!--Made with love by Mutiullah Samim -->
 
