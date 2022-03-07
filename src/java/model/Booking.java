@@ -41,7 +41,7 @@ public class Booking {
         this.dateto = dateto;
         this.people = people;
     }
-
+//TAicao
     public Booking(int id, int cusID, Homestay homestay, String date, String datefrom, String dateto, int people, double total) {
         this.id = id;
         this.cusID = cusID;
