@@ -7,7 +7,7 @@ package model;
  
 /**
  *
- * @author TrungLT
+ * @author Tai Cao
  */
 public class Homestay {
     private int id;
